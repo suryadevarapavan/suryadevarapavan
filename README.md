@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+
 I'm a student developer passionate about game development and open-source projects. Currently learning Data Analysis and C++. Let's connect!
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -6,4 +8,6 @@ I'm a student developer passionate about game development and open-source projec
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ttadu&layout=donut)](https://github.com/P1ttadu/github-readme-stats)
