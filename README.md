@@ -14,4 +14,4 @@ I'm a student developer passionate about Computer Science.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ttadu&layout=donut)](https://github.com/P1ttadu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P1ttadu&layout=donut)](https://github.com/suryadevarapavan/github-readme-stats)
