@@ -1,4 +1,4 @@
-## HELLO !
+## HELLO , WORLD !
 A CS student exploring the diverse landscapes of computer science, always eager to dive into new sectors and technologies.
 
 <br>
