@@ -16,3 +16,4 @@ A CS student exploring the diverse landscapes of computer science, always eager 
 
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryadevarapavan&layout=donut-vertical)](https://github.com/suryadevarapavan/github-readme-stats)
